@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Dorian 🌚</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1hTQIgyY5sk3IGKRWu/giphy-downsized-large.gif" width="425"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1hTQIgyY5sk3IGKRWu/giphy-downsized-large.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
