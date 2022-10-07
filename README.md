@@ -11,7 +11,7 @@
 - 💻 &nbsp; Java | C 
 - 🪙 &nbsp; HTML | CSS | JavaScript
 - 🃏 &nbsp; Oracle SQL
-- 🔧 &nbsp; Intellij | Data Grip | PhpStorm | Visual Studio code | Git
+- 🔧 &nbsp; IntelliJ | DataGrip | PhpStorm | Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Sony Vegas
 
 <br>
