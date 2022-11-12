@@ -8,10 +8,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C 
+- 💻 &nbsp; Java | C | Python
 - 🪙 &nbsp; HTML | CSS | JavaScript
-- 🃏 &nbsp; Oracle SQL
-- 🔧 &nbsp; IntelliJ | DataGrip | PhpStorm | Visual Studio code | Git
+- 🃏 &nbsp; Oracle SQL, PLSQL
+- 🔧 &nbsp; JetBrains | Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Sony Vegas
 
 <br>
