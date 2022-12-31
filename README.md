@@ -20,6 +20,6 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/dorian-grasset/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/344/linkedin.png" width="40" /></a>
-&nbsp; <a href="mailto:contact@doriangrasset.fr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/344/apple-mail.png"  width="40" /></a>
+&nbsp; <a href="mailto:dorian.grasset.contact@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/344/apple-mail.png"  width="40" /></a>
 </p>
 
