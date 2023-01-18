@@ -9,7 +9,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C | Python
-- 🪙 &nbsp; HTML | CSS | JavaScript
+- 🪙 &nbsp; HTML | CSS | JavaScript | VueJS
 - 🃏 &nbsp; Oracle SQL, PLSQL
 - 🔧 &nbsp; JetBrains | Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Sony Vegas
