@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C | Python
-- 🪙 &nbsp; HTML | CSS | JavaScript | VueJS
-- 🃏 &nbsp; Oracle SQL, PLSQL
+- 💻 &nbsp; Java | C | Python | PHP
+- 🪙 &nbsp; HTML | CSS | JavaScript | VueJS | Cypress | Jest
+- 🃏 &nbsp; Oracle SQL, PLSQL, PostgreSQL
 - 🔧 &nbsp; JetBrains | Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Sony Vegas
 
