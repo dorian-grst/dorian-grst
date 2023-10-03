@@ -4,8 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 👁️ &nbsp; I like coding, video games and graphic things
-- 🎓 &nbsp; Student at the IUT Montpellier-Sète, France, Computer  
-Science Departement.
+- 🎓 &nbsp; Student at Polytech DevOps Montpellier, France
 
 <h3>🛠 Tech Stack</h3>
 
