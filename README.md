@@ -8,11 +8,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C | Python | PHP
-- 🪙 &nbsp; HTML | CSS | JavaScript | VueJS | Cypress | Jest
-- 🃏 &nbsp; Oracle SQL, PLSQL, PostgreSQL
-- 🔧 &nbsp; JetBrains | Visual Studio code | Git
-- 🖥 &nbsp; Illustrator | Photoshop | Figma | Sony Vegas
+- 💻 &nbsp; Typescript | Java | Python
+- 🪙 &nbsp; React | Adonis | Postgres
+- 🔧 &nbsp; Git | Visual Studio code
+- 🎨 &nbsp; Figma
 
 <br>
 
